@@ -1,4 +1,4 @@
-# IRCTC Ticket Booking System
+# IRCTC Ticket Booking System:
 
 A Java-based console application that simulates a basic IRCTC ticket booking system. The project is built using Gradle for dependency management and project structure.
 
